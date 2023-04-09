@@ -54,7 +54,7 @@ header {
     text-align: center;
 }
 
-/* second section style */
+/* images section style */
 
 .images {
     display: flex;
@@ -80,3 +80,138 @@ header {
     height: 300px;
 }
 
+/* Festures section */
+
+.features {
+    display: flex;
+    margin-left: 240px;
+    margin-top: 130px;
+
+
+
+}
+
+.girl-image img {
+    width: 500px;
+    height: 700px;
+    margin-top: 30px;
+
+
+}
+
+.love-enjoy .box {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    padding-left: 25px;
+    /* border: 0.5px solid black; */
+    margin-top: 5px;
+
+}
+
+.love-enjoy {
+    width: 500px;
+    margin-right: 80px;
+}
+
+.box h4 {
+    padding-top: 3px;
+}
+
+.box p {
+    padding-right: 7px;
+    padding-bottom: 7px;
+}
+
+/* button position on picturel */
+
+
+.big-button {
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    background: #FF900E;
+    transform: translate(-20%, -60%);
+    border: none;
+
+}
+
+.big-button span {
+    color: #FFFFFF;
+    font-size: 17px;
+
+}
+
+/* verticle line style */
+
+.vl {
+    border-left: 4px solid orange;
+    height: 50px;
+    margin-top: 23px;
+    padding-right: 10px;
+}
+
+.Some-facts {
+    margin-left: 250px;
+
+}
+
+/* card and sponsor section */
+
+
+
+.card-and-sponsors {
+    text-align: center;
+}
+
+.every-card {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 100px;
+
+}
+
+.each-card {
+    border: 1.5px solid orange;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+.each-card div {
+    padding-top: 30px;
+    text-align: center;
+
+}
+
+.Our-Sponspors {
+    margin-top: 150px;
+}
+
+.Our-Sponspors h2 {
+    font-size: 2.5em;
+}
+
+.sponsors-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+    margin-top: 100px;
+
+}
+
+.footer {
+   
+   margin-top: 80px;
+
+   /* border-radius: 20px;
+   padding-top: 1px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center; */
+
+}
